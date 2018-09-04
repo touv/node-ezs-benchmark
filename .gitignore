@@ -1,0 +1,11 @@
+*.tgz
+*.swp
+*.swo
+README.html
+node_modules
+results.tsv
+coverage/
+*.sw?
+lib
+.data.ezs/
+
