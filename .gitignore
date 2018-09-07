@@ -7,5 +7,5 @@ results.tsv
 coverage/
 *.sw?
 lib
-.data.ezs/
+.ezs/
 
